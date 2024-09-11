@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajayitunde25
 - 👀 I’m interested in ...collaoration
-- 🌱 I’m currently learning ...frontend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...GitHub.comajayitunde25
+- 🌱 I’m currently learning ...frontend development and web development
+- 💞️ I’m looking to collaborate on ...sport analysis and content creating
+- 📫 How to reach me ...GitHub.com/ajayitunde25
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... very open minded
 
